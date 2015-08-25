@@ -1,11 +1,6 @@
 ####
 boto
 ####
-boto 2.6.0
-19-Sep-2012
-
-.. image:: https://secure.travis-ci.org/boto/boto.png?branch=develop
-        :target: https://secure.travis-ci.org/boto/boto
 
 ************
 Introduction
